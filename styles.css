@@ -78,15 +78,8 @@ nav {
 }
 
 
- /* Change color on hover */
-.nav-item:hover {
-   color: #ff5733; /* Change to the desired hover color */
-   /* background-color:#9982AE; */
-}
-
-.nav-item a:hover {
-   color: #ff5733; /* Change to the desired hover color */
-   /* background-color:#9982AE; */
+.navlist li a:hover {
+   color: #ff5733; 
 }
  
 
