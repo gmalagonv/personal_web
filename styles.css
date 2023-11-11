@@ -361,6 +361,8 @@ video {
       ;
     }
 
+   
+
 
    }
 
@@ -382,6 +384,12 @@ video {
       display: flex;
       justify-content: space-between;
    }
+
+   .picture_project {
+      width: 100%;
+   }
+
+  
 }
 
 
