@@ -26,7 +26,7 @@ nav a i {
 }
 nav {
    /* background-color:#00181C; */
-   background-color: rgba(0, 24, 28, 0.5);
+   background-color: rgba(0, 24, 28, 0.7);
    display: flex;
    justify-content: space-between;
    align-items: center;
@@ -106,12 +106,19 @@ video {
    width: 100%;
    height: 100%;
    object-fit: cover;
+   opacity: 0.8;
  }
 
 .welcome {
-
+   font-size: 30px;
+   /* font-family:  'Big Shoulders Inline Text', cursive; */
+   font-weight: 100;
    position: absolute;
    color: white;
+   /* color: rgb(143, 56, 76); */
+   color: rgb(255,215,0);
+   /* color:rgb(255,165,0);
+   color: rgb(255,140,0); */
    padding: 20px;
    top: 30%;
    left: 7%;
@@ -130,7 +137,8 @@ video {
    /* background-image: url('https://img.freepik.com/free-photo/abstract-digital-grid-black-background_53876-97647.jpg?w=1800&t=st=1697154552~exp=1697155152~hmac=36dbd98fe43a9fb27e6282e6f3e92d62b294670f869554a782d27db85a4a7ea5'); */
 
    padding: 15px;
-   background-color: gray;
+  
+   background-color:rgb(4, 136, 97);
    display: flex;
    flex-direction: row;
    height: 100vh; 
@@ -202,6 +210,14 @@ video {
    /* justify-content: center;  */
    height: 100vh; 
    /* flex-wrap: wrap */
+   /* background-color:rgb(149, 167, 51); */
+    background-color:rgb(143, 56, 76);
+   background-color:rgb(0, 23, 218);
+   background-color:rgb(19, 117, 116);
+   /* background-color:rgb(27, 79, 73); */
+   /* background-color:rgb(7, 135, 84); */
+
+
 
 }
 
@@ -225,7 +241,7 @@ video {
    flex-wrap: wrap;
    /* flex-basis: 10%;  */
    justify-content: center;
-
+  
 }
 
 .row3 .boxes_container {
