@@ -224,7 +224,7 @@ video {
 
 .row3 .boxes_container {
    /* width: 95%; */
-   background-color:blue;
+   /* background-color:blue; */
    height: 100vh; 
    display: flex;
    padding: 5px;
