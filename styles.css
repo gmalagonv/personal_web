@@ -117,6 +117,8 @@ video {
    color: white;
    /* color: rgb(143, 56, 76); */
    color: rgb(255,215,0);
+   -webkit-text-stroke-width: 1px;
+   -webkit-text-stroke-color: black;
    /* color:rgb(255,165,0);
    color: rgb(255,140,0); */
    padding: 20px;
